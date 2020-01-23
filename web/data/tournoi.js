@@ -1,0 +1,38 @@
+traiterJson({"joueurs":[
+	{"nom":"Avalam2i","score":4.00},
+	{"nom":"Vroum","score":1.00},
+	{"nom":"Mark5","score":3.00},
+	{"nom":"Kantaou2i","score":4.00}
+],
+"rondes":[
+	{"ronde":1,
+	"parties":[
+		{"statut":"termine","j":"Avalam2i","r":"Vroum","resultat":"1-0","scoreJ":8,"scoreJ5":0,"scoreR":6,"scoreR5":1},
+		{"statut":"termine","j":"Mark5","r":"Kantaou2i","resultat":"1-0","scoreJ":8,"scoreJ5":1,"scoreR":5,"scoreR5":0}
+	]},
+	{"ronde":2,
+	"parties":[
+		{"statut":"termine","j":"Avalam2i","r":"Mark5","resultat":"1-0","scoreJ":9,"scoreJ5":5,"scoreR":3,"scoreR5":0},
+		{"statut":"termine","j":"Kantaou2i","r":"Vroum","resultat":"0-1","scoreJ":6,"scoreJ5":1,"scoreR":7,"scoreR5":1}
+	]},
+	{"ronde":3,
+	"parties":[
+		{"statut":"termine","j":"Avalam2i","r":"Kantaou2i","resultat":"0-1","scoreJ":6,"scoreJ5":0,"scoreR":8,"scoreR5":0},
+		{"statut":"termine","j":"Vroum","r":"Mark5","resultat":"0-1","scoreJ":7,"scoreJ5":0,"scoreR":7,"scoreR5":5}
+	]},
+	{"ronde":4,
+	"parties":[
+		{"statut":"termine","j":"Vroum","r":"Avalam2i","resultat":"0-1","scoreJ":7,"scoreJ5":0,"scoreR":7,"scoreR5":4},
+		{"statut":"termine","j":"Kantaou2i","r":"Mark5","resultat":"1-0","scoreJ":8,"scoreJ5":2,"scoreR":5,"scoreR5":0}
+	]},
+	{"ronde":5,
+	"parties":[
+		{"statut":"termine","j":"Mark5","r":"Avalam2i","resultat":"0-1","scoreJ":6,"scoreJ5":0,"scoreR":6,"scoreR5":4},
+		{"statut":"termine","j":"Vroum","r":"Kantaou2i","resultat":"0-1","scoreJ":6,"scoreJ5":1,"scoreR":8,"scoreR5":1}
+	]},
+	{"ronde":6,
+	"parties":[
+		{"statut":"termine","j":"Kantaou2i","r":"Avalam2i","resultat":"1-0","scoreJ":7,"scoreJ5":1,"scoreR":6,"scoreR5":0},
+		{"statut":"termine","j":"Mark5","r":"Vroum","resultat":"1-0","scoreJ":7,"scoreJ5":2,"scoreR":6,"scoreR5":1}
+	]}
+]});
