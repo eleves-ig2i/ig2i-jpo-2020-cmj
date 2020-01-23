@@ -1,6 +1,6 @@
 123) Placez vous dans le répertoire tournoi ;
 
--- POUR JOUER UN TOURNOI --
+1. POUR JOUER UN TOURNOI
 4) Ouvrez deux terminaux. Dans chacun d'eux, exécutez 'source dyn.sh'. 
 Cela exécute les commandes du fichier dyn.sh dans le shell courant, ce qui permet d'ajouter une variable d'environnement (LD_LIBRARY_PATH) pour indiquer le chemin des librairies externes.
 5) Dans le premier terminal, exécutez ./bin/moteur.exe 1 (1 s/coup) ;
@@ -8,8 +8,7 @@ Cela exécute les commandes du fichier dyn.sh dans le shell courant, ce qui perm
 7) Ouvrez le répertoire tournoi/web avec votre explorateur de fichiers... et double-cliquez sur avalam-tournoi.html.
 8) Appuyez sur ENTREE dans le terminal exécutant moteur.exe ;
 
-
--- POUR JOUER UN DUEL --
+2.POUR JOUER UN DUEL
 4) Ouvrez trois terminaux. Dans chacun d'eux, exécutez 'source dyn.sh' ;
 5) Dans le premier terminal, exécutez ./duel.exe ; 
 6) Dans le second terminal, exécutez un premier joueur ; 
